@@ -1,2 +1,7 @@
-# Customer-churn-prediction
-This project uses machine learning models to predict customer churn based on their service usage patterns and account information. It is built using the Telco Customer Churn dataset and includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
+📌 Customer Churn Prediction
+
+This project focuses on predicting customer churn using machine learning techniques on the Telco Customer Churn dataset. It includes thorough data preprocessing such as handling missing values, label encoding, and one-hot encoding. Exploratory Data Analysis (EDA) is performed to uncover patterns related to customer behavior, tenure, contract type, and services used. Multiple classification models are trained, including Logistic Regression and Random Forest, with Random Forest achieving the best performance. The models are evaluated using accuracy scores, confusion matrices, and classification reports. This project aims to help telecom companies identify potential churners early and reduce customer loss through data-driven decisions. Key libraries used include Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+
+
+
+👨‍💻 Created by Arsh59
